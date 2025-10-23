@@ -1,0 +1,13 @@
+ Output File (headlines.txt)
+After running the Python script, it will generate a headlines.txt file in the same directory. The content will look similar to this (headlines will vary based on the day):
+1. Show HN: I'm building a text-based web browser for the modern age
+2. The AI industry is not building intelligence
+3. Google Search Is Dying
+4. Apple’s “Find My” Network Has Been Reverse-Engineered
+5. A 4K monitor that is also an Etch A Sketch
+6. Ask HN: What are the best-designed websites you use regularly?
+7. U.S. judge rules AI-generated art cannot be copyrighted
+8. The Slow Death of the Malls
+9. Why are we building so many LLMs?
+10. A practical guide to using regular expressions
+...and so on.
